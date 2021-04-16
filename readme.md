@@ -1,5 +1,6 @@
 ##How to build
 -  open cmd terminal or built in terminal in code editor
+make sure to install composer
 -  run: php artisan migrate:fresh --seed
 -  run: php artisan serve
 -  run: php artisan storage:link
