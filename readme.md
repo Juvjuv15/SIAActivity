@@ -2,6 +2,7 @@
 -  open cmd terminal or built in terminal in code editor
 -  run: php artisan migrate:fresh --seed
 -  run: php artisan serve
+-  run: php artisan storage:link
 -  for the administrator log in input the url in the browser: http://localhost:8000/instantplot
 -  root admin account: username: instantadmin	password: admin NOTE: change "a" to @ and "i" to !
 -  for the user log in input the url in the browser: http://localhost:8000/login 
